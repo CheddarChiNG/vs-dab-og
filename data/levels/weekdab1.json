@@ -1,0 +1,73 @@
+{
+    "version": "1.0.0",
+    "name": "yawill was here",
+    "titleAsset": "storymenu/titles/weekdab1",
+    "props": [
+        {
+            "assetPath": "/images/storymenu/props/Menu_Dab1",
+            "scale": 1,
+            "offsets": [
+                0,
+                0
+            ],
+            "animations": [
+                {
+                    "name": "idle",
+                    "prefix": "M Dad Idle",
+                    "frameRate": 24
+                },
+                {
+                    "name": "confirm",
+                    "prefix": "M Dad Idle",
+                    "frameRate": 24
+                }
+            ]
+        },
+        {
+            "assetPath": "/images/storymenu/props/Menu_BFa",
+            "scale": 1,
+            "offsets": [
+                15,
+                -40
+            ],
+            "animations": [
+                {
+                    "name": "idle",
+                    "prefix": "M BF Idle",
+                    "frameRate": 24
+                },
+                {
+                    "name": "confirm",
+                    "prefix": "M bf HEY",
+                    "frameRate": 24
+                }
+            ]
+        },
+        {
+            "assetPath": "/images/storymenu/props/Menu_GFa",
+            "scale": 1,
+            "offsets": [
+                0,
+                -25
+            ],
+            "animations": [
+                {
+                    "name": "idle",
+                    "prefix": "M GF Idle",
+                    "frameRate": 24
+                },
+                {
+                    "name": "confirm",
+                    "prefix": "M GF Idle",
+                    "frameRate": 24
+                }
+            ]
+        }
+    ],
+    "background": "#9271FD",
+    "songs": [
+        "encounter",
+        "glow",
+        "jigokunokishi"
+    ]
+}

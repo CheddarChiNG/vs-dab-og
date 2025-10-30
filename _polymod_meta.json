@@ -1,0 +1,34 @@
+{
+    "title": "Vs Dab (V1)",
+    "description": "oh my god bro not again",
+    "contributors": [
+		{
+			"name": "CherryChi",
+			"role": "Artist, Programmer",
+			"url": "https://gamebanana.com/members/1944177"
+		},
+		{
+			"name": "Bluetoot",
+			"role": "Charter (V1), Playtester",
+         "url": "https://youtube.com/@bluetootv2849"
+		},
+		{
+			"name": "YaWillorYaWont",
+			"role": "Programmer (he died)",
+			"url": "https://youtube.com/@yawilloryawont"
+		},
+		{
+			"name": "MTGM",
+			"role": "I found a script for cutscenes lol (PSYCH BUILD)",
+			"url": "https://gamebanana.com/members/3015750"
+		},
+		{
+			"name": "Kevin MacLeod",
+			"role": "Peak music",
+			"url": "https://youtube.com/@incompetech_kmac"
+		}
+    ]
+    "api_version": "0.7.0",
+    "mod_version": "1.0.0",
+    "license": "CC BY 4.0,MIT"
+}

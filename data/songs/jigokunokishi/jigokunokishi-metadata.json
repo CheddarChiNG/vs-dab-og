@@ -1,0 +1,42 @@
+{
+  "version": "2.2.4",
+  "songName": "Jigokunokishi",
+  "artist": "Cherrychi",
+  "charter": "Bluetoot & Chi",
+  "divisions": 96,
+  "looped": false,
+  "playData": {
+    "difficulties": [
+      "hard"
+    ],
+    "characters": {
+      "player": "bf-christmas",
+      "girlfriend": "gf-christmas",
+      "opponent": "superdab"
+    },
+    "stage": "treeunpog",
+    "noteStyle": "funkin",
+    "ratings": {
+      "hard": 0
+    },
+    "previewStart": 0,
+    "previewEnd": 0
+  },
+  "generatedBy": "Friday Night Funkin' - v0.7.5",
+  "timeFormat": "ms",
+  "timeChanges": [
+    {
+      "t": 0,
+      "b": 0,
+      "bpm": 200,
+      "n": 4,
+      "d": 4,
+      "bt": [
+        4,
+        4,
+        4,
+        4
+      ]
+    }
+  ]
+}

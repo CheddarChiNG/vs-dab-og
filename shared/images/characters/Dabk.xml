@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<TextureAtlas imagePath="Dabk.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+
+	<!-- http://www.adobe.com/products/animate.html -->
+
+  <SubTexture name="Dab DOWN0000" x="5" y="5" width="561" height="466" /> 
+  <SubTexture name="Dab DOWN0001" x="576" y="5" width="555" height="466" /> 
+  <SubTexture name="Dab DOWN0002" x="1141" y="5" width="541" height="466" /> 
+  <SubTexture name="Dab DOWN0003" x="5" y="481" width="507" height="466" /> 
+  <SubTexture name="Dab DOWN0004" x="5" y="5" width="561" height="466" /> 
+  <SubTexture name="Dab DOWN0005" x="576" y="5" width="555" height="466" /> 
+  <SubTexture name="Dab DOWN0006" x="1141" y="5" width="541" height="466" /> 
+  <SubTexture name="Dab DOWN0006" x="5" y="481" width="507" height="466" /> 
+  <SubTexture name="Dab LEFT0000" x="1653" y="1189" width="266" height="675" /> 
+  <SubTexture name="Dab LEFT0001" x="1653" y="1189" width="266" height="675" /> 
+  <SubTexture name="Dab LEFT0002" x="1692" y="5" width="292" height="669" /> 
+  <SubTexture name="Dab LEFT0003" x="1692" y="5" width="292" height="669" /> 
+  <SubTexture name="Dab LEFT0004" x="1692" y="5" width="292" height="669" /> 
+  <SubTexture name="Dab LEFT0005" x="1692" y="5" width="292" height="669" /> 
+  <SubTexture name="Dab LEFT0006" x="1692" y="5" width="292" height="669" /> 
+  <SubTexture name="Dab RIGHT0000" x="423" y="1874" width="350" height="693" /> 
+  <SubTexture name="Dab RIGHT0001" x="423" y="1874" width="350" height="693" /> 
+  <SubTexture name="Dab RIGHT0002" x="783" y="1874" width="362" height="689" /> 
+  <SubTexture name="Dab RIGHT0003" x="783" y="1874" width="362" height="689" /> 
+  <SubTexture name="Dab RIGHT0004" x="783" y="1874" width="362" height="689" /> 
+  <SubTexture name="Dab RIGHT0005" x="783" y="1874" width="362" height="689" /> 
+  <SubTexture name="Dab RIGHT0006" x="783" y="1874" width="362" height="689" /> 
+  <SubTexture name="Dab UP0000" x="1929" y="684" width="259" height="720" /> 
+  <SubTexture name="Dab UP0001" x="1929" y="684" width="259" height="720" /> 
+  <SubTexture name="Dab UP0002" x="1929" y="1414" width="263" height="722" /> 
+  <SubTexture name="Dab UP0003" x="1929" y="1414" width="263" height="722" /> 
+  <SubTexture name="Dab UP0004" x="1929" y="1414" width="263" height="722" /> 
+  <SubTexture name="Dab UP0005" x="1929" y="1414" width="263" height="722" /> 
+  <SubTexture name="Dab UP0006" x="1929" y="1414" width="263" height="722" /> 
+  <SubTexture name="Dad idle dance0000" x="522" y="481" width="367" height="715" /> 
+  <SubTexture name="Dad idle dance0001" x="522" y="481" width="367" height="715" /> 
+  <SubTexture name="Dad idle dance0002" x="899" y="481" width="367" height="715" /> 
+  <SubTexture name="Dad idle dance0003" x="899" y="481" width="367" height="715" /> 
+  <SubTexture name="Dad idle dance0004" x="1276" y="481" width="388" height="698" /> 
+  <SubTexture name="Dad idle dance0005" x="1276" y="481" width="388" height="698" /> 
+  <SubTexture name="Dad idle dance0006" x="5" y="1189" width="408" height="685" /> 
+  <SubTexture name="Dad idle dance0007" x="5" y="1189" width="408" height="685" /> 
+  <SubTexture name="Dad idle dance0008" x="1276" y="1189" width="367" height="715" /> 
+  <SubTexture name="Dad idle dance0009" x="1276" y="1189" width="367" height="715" /> 
+  <SubTexture name="Dad idle dance0010" x="1276" y="1189" width="367" height="715" /> 
+  <SubTexture name="Dad idle dance0011" x="522" y="481" width="367" height="715" /> 
+  <SubTexture name="Dad idle dance0012" x="522" y="481" width="367" height="715" /> 
+</TextureAtlas>

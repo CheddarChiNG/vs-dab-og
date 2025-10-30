@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="superdab.png">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="dabdown0000" x="5" y="5" width="561" height="481"/>
+	<SubTexture name="dabdown0001" x="576" y="5" width="537" height="510"/>
+	<SubTexture name="dableft0000" x="780" y="680" width="554" height="578"/>
+	<SubTexture name="dableft0001" x="1508" y="5" width="523" height="577"/>
+	<SubTexture name="dabright0000" x="1508" y="592" width="648" height="553"/>
+	<SubTexture name="dabright0001" x="1344" y="1155" width="628" height="568"/>
+	<SubTexture name="dabup0000" x="1982" y="1155" width="360" height="788"/>
+	<SubTexture name="dabup0001" x="2166" y="5" width="372" height="800"/>
+	<SubTexture name="dabidle0000" x="1123" y="5" width="375" height="655"/>
+	<SubTexture name="dabidle0001" x="5" y="680" width="362" height="655"/>
+	<SubTexture name="dabidle0002" x="377" y="680" width="393" height="659"/>
+	<SubTexture name="dabidle0003" x="1123" y="5" width="375" height="655"/>
+	<SubTexture name="dabidle0004" x="5" y="680" width="362" height="655"/>
+	<SubTexture name="dabidle0005" x="377" y="680" width="393" height="659"/>
+</TextureAtlas>

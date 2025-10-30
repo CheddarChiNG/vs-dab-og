@@ -1,0 +1,67 @@
+{
+    "version": "1.0.0",
+    "name": "Dab",
+    "assetPath": "characters/Dab",
+    "singTime": 4,
+    "isPixel": false,
+    "scale": 1,
+    "healthIcon": {
+        "id": "dab",
+        "isPixel": false,
+        "flipX": false,
+        "scale": 1
+    },
+    "animations": [
+        {
+            "name": "idle",
+            "prefix": "Dab idle dance",
+            "offsets": [
+                -81,
+                -57
+            ],
+            "frameRate": 24,
+            "frameIndices": []
+        },
+        {
+            "name": "singDOWN",
+            "prefix": "Dab Sing Note DOWN",
+            "offsets": [
+                0,
+                -340
+            ],
+            "frameRate": 24,
+            "frameIndices": []
+        },
+        {
+            "name": "singUP",
+            "prefix": "Dab Sing Note UP",
+            "offsets": [
+                0,
+                -20
+            ],
+            "frameRate": 24,
+            "frameIndices": []
+        },
+        {
+            "name": "singLEFT",
+            "prefix": "Dab Sing Note LEFT",
+            "offsets": [
+                9,
+                -80
+            ],
+            "frameRate": 24,
+            "frameIndices": []
+        },
+        {
+            "name": "singRIGHT",
+            "prefix": "Dab Sing Note RIGHT",
+            "offsets": [
+                -102,
+                -65
+            ],
+            "frameRate": 24,
+            "frameIndices": []
+        }
+    ],
+    "flipX": false
+}
